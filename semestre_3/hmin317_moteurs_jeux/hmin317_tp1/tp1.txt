@@ -1,0 +1,13 @@
+Question 1 :
+	La classe MainWidget gere les textures du cube et la rotation.
+	La classe GeometryEngine permet de creer et dessinner des figures geometriques.
+	
+	fshader.glsl ->
+	vshader.glsl ->
+	
+Question 2 :
+	initCubeGeometry -> genere les 6 faces definis par leurs 4 coins, les vertex sont dupliques pour permettre l'ajout des textures propres a chaque face. Les vertex sont alors alignes pour creer un triangle strip.
+	drawCubeGeometry -> 
+	
+Question 3 :
+	
